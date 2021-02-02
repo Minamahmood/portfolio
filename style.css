@@ -1,0 +1,36 @@
+      header {
+    background: #333;
+  }
+  body {
+    background-color: wheat;
+   padding:0;
+  }
+    h1 {
+    padding: 10px 10;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color:rgb(122, 127, 115);
+    background-color: rgb(243, 167, 14);
+    background-size: 0%;
+    text-align: center;
+    border: 5px solid;
+    }
+  p {
+    line-height:0.2;
+    float:left;
+  }
+  img{
+    float: left;
+    margin: 10px;
+  }
+  section  {
+    float: left;
+    line-height: 1.5;
+    text-align: left;
+      margin-left: 100px;
+  }
+  /*
+  #main{
+    float: left;
+  }
